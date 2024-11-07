@@ -1,6 +1,6 @@
 <script lang="ts">
   import { invoke } from "@tauri-apps/api/core";
-  import '../app.postcss';
+
 
   let name = $state("");
   let greetMsg = $state("");
